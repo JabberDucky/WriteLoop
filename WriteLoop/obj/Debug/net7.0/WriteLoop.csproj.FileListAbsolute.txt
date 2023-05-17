@@ -1,0 +1,15 @@
+C:\Users\katva\Desktop\repos\WriteLoop\WriteLoop\bin\Debug\net7.0\WriteLoop.exe
+C:\Users\katva\Desktop\repos\WriteLoop\WriteLoop\bin\Debug\net7.0\WriteLoop.deps.json
+C:\Users\katva\Desktop\repos\WriteLoop\WriteLoop\bin\Debug\net7.0\WriteLoop.runtimeconfig.json
+C:\Users\katva\Desktop\repos\WriteLoop\WriteLoop\bin\Debug\net7.0\WriteLoop.dll
+C:\Users\katva\Desktop\repos\WriteLoop\WriteLoop\bin\Debug\net7.0\WriteLoop.pdb
+C:\Users\katva\Desktop\repos\WriteLoop\WriteLoop\obj\Debug\net7.0\WriteLoop.csproj.AssemblyReference.cache
+C:\Users\katva\Desktop\repos\WriteLoop\WriteLoop\obj\Debug\net7.0\WriteLoop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\katva\Desktop\repos\WriteLoop\WriteLoop\obj\Debug\net7.0\WriteLoop.AssemblyInfoInputs.cache
+C:\Users\katva\Desktop\repos\WriteLoop\WriteLoop\obj\Debug\net7.0\WriteLoop.AssemblyInfo.cs
+C:\Users\katva\Desktop\repos\WriteLoop\WriteLoop\obj\Debug\net7.0\WriteLoop.csproj.CoreCompileInputs.cache
+C:\Users\katva\Desktop\repos\WriteLoop\WriteLoop\obj\Debug\net7.0\WriteLoop.dll
+C:\Users\katva\Desktop\repos\WriteLoop\WriteLoop\obj\Debug\net7.0\refint\WriteLoop.dll
+C:\Users\katva\Desktop\repos\WriteLoop\WriteLoop\obj\Debug\net7.0\WriteLoop.pdb
+C:\Users\katva\Desktop\repos\WriteLoop\WriteLoop\obj\Debug\net7.0\WriteLoop.genruntimeconfig.cache
+C:\Users\katva\Desktop\repos\WriteLoop\WriteLoop\obj\Debug\net7.0\ref\WriteLoop.dll
